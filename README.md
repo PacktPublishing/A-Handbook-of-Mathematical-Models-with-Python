@@ -3,7 +3,7 @@
 
 This book has been divided into three parts. 
 
-Part I has 2 chapters and discusses the theory and concepts of mathematical modeling and talks about how a business problem can be formulated mathematically. 
+Part I has 2 chapters and introduces the theory and concepts of mathematical modeling and discusses how a business problem can be formulated mathematically. 
 
 Part II consists of 6 chapters (all have python code examples) about the most tried and tested tools that enable mathematical modeling and how mathematical models are complementary to machine learning models. 
 
