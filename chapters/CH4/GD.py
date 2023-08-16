@@ -36,9 +36,8 @@ plt.style.use('fivethirtyeight')
 plt.scatter(X, y, color='black')
 plt.plot(X, y_pred)
 plt.gca().set_title("Linear Regression Model 1")
-
-print('Slope = ', round(Clf_1.m, 4))
-print('Intercept = ', round(Clf_1.c, 4))
+#print('Slope = ', round(Clf_1.m, 4))
+#print('Intercept = ', round(Clf_1.c, 4))
 print('MSE = ', round(mse_1, 2))
 
 #Model 2
