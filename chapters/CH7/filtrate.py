@@ -1,8 +1,3 @@
-
-import math, random
-import numpy as np
-import matplotlib.pyplot as plt
-
 x_k = np.asarray([30,20]) 
 Q = np.asarray([[0.004,0.002],[0.002,0.001]]) 
 A = np.asarray([[1,1],[0,1]]) 
