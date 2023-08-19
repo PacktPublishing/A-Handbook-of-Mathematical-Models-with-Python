@@ -8,14 +8,17 @@ total_time = 100
 accel_dict = {0:0,5:2,10:8, 20: -2,40:5,45: 9, 60: -3,85:0}
 
 true_values = []
-for t in range (1, total_time+1):
- current_disp = current_disp + current_vel + (1/2) * current_accel
- try:
- current_accel = accel_dict[t]
- except KeyError:
- pass
- current_vel = current_vel + current_accel
- true_values.append((current_disp, current_vel, current_accel))
+for t in range(1, total_time+1):
+    
+    current_disp = current_disp + current_vel + (1/2)*current_accel
+    
+    try:
+        current_accel = accel_dict[t]
+    except KeyError:
+        pass
+    
+    current_vel = current_vel + current_accel
+    true_values.append((current_disp, current_vel, current_accel))
 
 err_range = [700, 30, 15]
 measurements = []
