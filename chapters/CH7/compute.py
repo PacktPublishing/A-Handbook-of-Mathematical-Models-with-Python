@@ -3,6 +3,7 @@ import numpy as np
 import math, random
 import matplotlib.pyplot as plt
 
+#Computation of measurements
 current_vel, current_disp, current_accel = 2, 0, 0
 total_time = 100
 accel_dict = {0:0,5:2,10:8, 20: -2,40:5,45: 9, 60: -3,85:0}
@@ -28,7 +29,7 @@ for item in true_values:
     random_err = [random.randint(-1*error_range[0], err_range[0]), random.randint(-1*err_range[1], err_range[1]), 
                   random.randint(-1*err_range[2], err_range[2])]
     
-    new_disp = d + random_err[0] if d+random_err[0] >0 else 0
+    new_disp = d + random_err[0] if d+random_err[0] > 0 else 0
     new_vel = v + random_err[1]
     new_accel = a + random_err[2]
     measurements.append((new_disp, new_vel, new_accel))
@@ -40,6 +41,7 @@ plt.xlabel("Time (s)")
 plt.legend()
 plt.show()
 
+#Filtration of measurements
 x_k = np.asarray([30,20]) 
 Q = np.asarray([[0.004,0.002],[0.002,0.001]]) 
 A = np.asarray([[1,1],[0,1]]) 
