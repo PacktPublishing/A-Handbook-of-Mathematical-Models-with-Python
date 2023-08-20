@@ -14,3 +14,5 @@ nx.draw_networkx(df, with_labels = True)
 shortest_airtime = nx.dijkstra_path(df, source = 'LAS', target = 'PBI', weight = 'AirTime')
 shortest_dist = nx.dijkstra_path(df, source = 'LAS', target = 'PBI', weight = 'Distance')
 print(shortest_dist,shortest_airtime)
+
+
