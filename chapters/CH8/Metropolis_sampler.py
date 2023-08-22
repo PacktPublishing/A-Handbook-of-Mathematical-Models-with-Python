@@ -45,3 +45,11 @@ plt.gca().set_aspect('equal', adjustable = 'box')
 plt.xlim([-3, 3])
 plt.ylim([-3, 3])
 plt.show()
+
+
+#samples = np.random.multivariate_normal(mus, sigmas, 10000)
+#x = list(zip(*samples[burnin:]))[0]
+#y = list(zip(*samples[burnin:]))[1]
+#burnin = 200
+#sns.jointplot(samples[burnin:], x = x, y = y, kind = 'kde')
+#plt.show()
