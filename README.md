@@ -1,24 +1,23 @@
 # A Handbook of Mathematical Models with Python
-<a href="https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253?utm_source=github&utm_medium=repository&utm_campaign=9781789537253"><img src="https://content.packt.com/B11725/cover_image_small.png" alt="A Handbook of Mathematical
+<a href="https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703"><img src="https://content.packt.com/B18943/cover_image_small.jpg" alt="A Handbook of Mathematical
 Models with Python" height="256px" align="right"></a>
 
-This is the code repository for [A Handbook of Mathematical Models with Python](https://www.packtpub.com/product/hands-on-exploratory-data-analysis-with-python/9781789537253?utm_source=github&utm_medium=repository&utm_campaign=9781789537253), published by Packt.
+This is the code repository for [A Handbook of Mathematical Models with Python](https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703), published by Packt.
 
-**Elevate your machine learning projects with NetworkX, PuLP,and linalg**
+**Elevate your machine learning projects with NetworkX, PuLP, and linalg**
 
 ## What is this book about?
-Exploratory data analysis (EDA) is a crucial step in data analysis and machine learning projects as it helps in uncovering relationships and patterns and provides insights into structured and unstructured datasets. With various techniques and libraries available for performing EDA, choosing the right approach can sometimes bechallenging. This hands-on guide provides you with practical steps and ready-to-use code for conducting exploratory analysis on tabular, time series, and textual data.
+Mathematical modeling is the art of transforming a business problem into a well-defined mathematical formulation. Its emphasis on interpretability is particularly crucial when deploying a model to support high-stake decisions in sensitive sectors like pharmaceuticals and healthcare.
 
 This book covers the following exciting features: 
-* Perform EDA with leading Python data visualization libraries
-* Execute univariate, bivariate, and multivariate analyses on tabular data
-* Uncover patterns and relationships within time series data
-* Identify hidden patterns within textual data
-* Discover different techniques to prepare data for analysis
-* Overcome the challenge of outliers and missing values during data analysis
-* Leverage automated EDA for fast and efficient analysis
+* Understand core concepts of mathematical models and their relevance in solving problems
+* Explore various approaches to modeling and learning using Python
+* Work with tested mathematical tools to gather meaningful insights
+* Blend mathematical modeling with machine learning to find optimal solutions to business problems
+* Optimize ML models built with business data, apply them to understand their impact on the business, and address critical questions
+* Apply mathematical optimization for data-scarce problems where the objective and constraints are known
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B09NC5XJ6D) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0C8Z3NMT8) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -29,37 +28,36 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-import numpy as np
-import pandas as pd
-import seaborn as sns
+import pandas as pd, numpy as np
+from collections import Counter
+import matplotlib.pyplot as plt
 ```
 
 
 **Following is what you need for this book:**
-If you are a data analyst interested in the practical application of exploratory data analysis in Python, then this book is for you. This book will also benefit data scientists, researchers, and statisticians who are looking for hands-on instructions on how to apply EDA techniques using Python libraries. Basic knowledge of Python programming and a basic understanding of fundamental statistical concepts is a prerequisite.
+If you are a budding data scientist seeking to augment your journey with mathematics, this book is for you. Researchers and R&D scientists will also be able to harness the concepts covered to their full potential. To make the best use of this book, a background in linear algebra, differential equations, basics of statistics, data types, data structures, and numerical algorithms will be useful.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 
 ### Software and Hardware List
 
-Basic knowledge of Python and statistical concepts is all that is needed to get the best out of this book.
+You will need Python 3.0 or higher versions to run the code in respective chapters. Python libraries
+required to execute a particular method have been imported (compatible versions with Python 3.0)
+in the code, which can be installed readily in the notebook or Python environment of your system.
+
 System requirements are mentioned in the following table:
 
-| Software/Hardware                              | Operating System requirements      |
-| ------------------------------------           | -----------------------------------|
-| Python 3.0 or higher                           | Windows, Mac OS X, and Linux (Any) |                                                            
-| 512GB, 8GB RAM, i5 processor(Preferred specs)  | Windows, Mac OS X, and Linux (Any) |
-
-
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/npXws).
+| Software/Hardware                   | Operating System requirements      |
+| -------------------------           | -----------------------------------|
+| Python 3.0 or higher                | Windows, Mac OS X, and Linux (Any) |                                
+| Python libraries                    | Windows, Mac OS X, and Linux (Any) |
 
 
 ### Related products <Other books you may enjoy>
-* Python Data Cleaning Cookbook[[Packt]](https://www.packtpub.com/product/python-data-cleaning-cookbook/9781800565661) [[Amazon]](https://www.amazon.com/dp/1800565666)
+* Machine Learning Security Principles [[Packt]](https://www.packtpub.com/product/machine-learning-security-principles/9781804618851) [[Amazon]](https://www.amazon.com/dp/1804618853)
 
-* Hands-On Data Preprocessing in Python [[Packt]](https://www.packtpub.com/product/hands-on-data-preprocessing-in-python/9781801072137) [[Amazon]](https://www.amazon.com/dp/1801072132)
+* Machine Learning Model Serving Patterns and Best Practices [[Packt]](https://www.packtpub.com/product/machine-learning-model-serving-patterns-and-best-practices/9781803249902) [[Amazon]](https://www.amazon.com/dp/B0BKGSVTF9)
 
 ## Get to Know the Author
 **Dr. Ranja Sarkar**
