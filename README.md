@@ -69,6 +69,8 @@ Ranja has a decade of experience in academic scientific research encompassing ph
 statistical physics, and mathematics with publications in peer-reviewed internationally acclaimed
 journals. She has also worked at Deloitte offices in the US as a consultant for a year.
 
+## Additional Information
+
 This book has been divided into three parts. 
 
 Part I - Mathematical Modeling: It has 2 chapters and introduces the theory and concepts of mathematical modeling and discusses how a business problem can be formulated mathematically. 
