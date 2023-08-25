@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 **Following is what you need for this book:**
 If you are a budding data scientist seeking to augment your journey with mathematics, this book is for you. Researchers and R&D scientists will also be able to harness the concepts covered to their full potential. To make the best use of this book, a background in linear algebra, differential equations, basics of statistics, data types, data structures, and numerical algorithms will be useful.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
+With the following software and hardware list you can run all code files present in the book (Chapters 3-9).
 
 
 ### Software and Hardware List
