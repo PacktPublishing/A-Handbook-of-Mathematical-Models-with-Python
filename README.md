@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # A Handbook of Mathematical Models with Python
 <a href="https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703"><img src="https://content.packt.com/B18943/cover_image_small.jpg" alt="A Handbook of Mathematical
 Models with Python" height="256px" align="right"></a>
