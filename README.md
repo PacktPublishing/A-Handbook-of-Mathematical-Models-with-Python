@@ -69,13 +69,13 @@ System requirements are mentioned in the following table:
 
 ## Get to Know the Author
 **Dr. Ranja Sarkar**
-is a delivery manager (data science consulting) at TheMathCompany. She is a
+is a delivery manager (data science consulting) at MathCo. She is a
 scientist with a focus on the intersection of data science and technology, working on a variety of
 projects in sectors ranging from manufacturing to healthcare to retail. Prior to this, Ranja worked as
 a data scientist at Shell plc, the most diversified global group of energy and petrochemical companies.
 Ranja has a decade of experience in academic scientific research encompassing physics, biophysics,
 statistical physics, and mathematics with publications in peer-reviewed internationally acclaimed
-journals. She has also worked at Deloitte offices in the US as a consultant for a year.
+journals. She has also worked at Deloitte - USI (Offices of the US) as a consultant for a year.
 
 ## Additional Information
 
