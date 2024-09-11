@@ -1,3 +1,6 @@
+#Learn about parameter grid: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ParameterGrid.html#sklearn.model_selection.ParameterGrid
+#https://scikit-learn.org/stable/modules/grid_search.html#grid-search
+
 
 import pandas as pd
 from scipy.stats import loguniform
@@ -27,3 +30,4 @@ result = search.fit(X, y)
 
 print('Best Score: %s' % result.best_score_)
 print('Best Hyperparameters: %s' % result.best_params_)
+
