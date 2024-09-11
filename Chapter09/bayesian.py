@@ -1,3 +1,6 @@
+#Learn about tuning a scikit-learn estimator with skopt: https://scikit-optimize.github.io/stable/auto_examples/hyperparameter-optimization.html
+#Bayesian optimization using Gaussian process (gp): https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html#skopt.gp_minimize
+
 
 import  numpy as np
 from sklearn.datasets import make_blobs
