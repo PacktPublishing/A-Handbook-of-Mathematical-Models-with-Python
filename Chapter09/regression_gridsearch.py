@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 
 #dataset for regression
-url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/auto-insurance.csv'
+url = 'auto-insurance.csv'
 df = pd.read_csv(url, header = None)
 
 data = df.values
