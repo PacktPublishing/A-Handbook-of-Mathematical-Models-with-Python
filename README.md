@@ -3,7 +3,7 @@
 <a href="https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703"><img src="https://content.packt.com/B18943/cover_image_small.jpg" alt="A Handbook of Mathematical
 Models with Python" height="256px" align="right"></a>
 
-This is the code repository for [A Handbook of Mathematical Models with Python](https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703), published (and sold) by Packt.
+This is the **code repository** for [A Handbook of Mathematical Models with Python](https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703), published (and sold) by Packt.
 
 **Elevate your machine learning projects with NetworkX, PuLP, and linalg**
 
