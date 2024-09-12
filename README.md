@@ -1,16 +1,9 @@
 
-### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
-
-<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
-3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
-
-Code: <b>USD75OFF</b>
-
 # A Handbook of Mathematical Models with Python
 <a href="https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703"><img src="https://content.packt.com/B18943/cover_image_small.jpg" alt="A Handbook of Mathematical
 Models with Python" height="256px" align="right"></a>
 
-This is the code repository for [A Handbook of Mathematical Models with Python](https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703), published by Packt.
+This is the code repository for [A Handbook of Mathematical Models with Python](https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703), published (and sold) by Packt.
 
 **Elevate your machine learning projects with NetworkX, PuLP, and linalg**
 
@@ -25,7 +18,7 @@ This book covers the following exciting features:
 * Optimize ML models built with business data, apply them to understand their impact on the business, and address critical questions
 * Apply mathematical optimization for data-scarce problems where the objective and constraints are known
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0C8Z3NMT8) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0C8Z3NMT8) from Amazon today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
