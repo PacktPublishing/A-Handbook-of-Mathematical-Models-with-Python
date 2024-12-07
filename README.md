@@ -78,5 +78,31 @@ This book has been divided into three parts.
 
 **Part II** - **Mathematical Tools**: It consists of 6 chapters (all have python code examples) about the most tried and tested tools that enable mathematical modeling and how mathematical models are complementary to machine learning models. 
 
-**Part III** - **Mathematical Optimization**: It has 2 chapters (1 has python code examples) introduces the readers to optimization techniques in general, those used in machine learning and in operations research. 
+Those chapters have dedicated repositories as supplementary materials to the book. They are as follows:
+
+-> **Ch 3: PCA** 
+
+   Repo: https://github.com/ranja-sarkar/pca
+
+-> **Ch 4: Gradient Descent**
+
+   Repo: https://github.com/ranja-sarkar/GD
+
+-> **Ch 5: SVM**
+
+   Repo: https://github.com/ranja-sarkar/SVM
+
+-> **Ch 6: Graph Theory**
+
+   Repo: https://github.com/ranja-sarkar/networks-graphs
+
+-> **Ch 7: Kalman Filter**
+
+   Repo: https://github.com/ranja-sarkar/Kalman
+
+-> **Ch 8: Markov Chain**
+
+   Repo: https://github.com/ranja-sarkar/Markov
+
+**Part III** - **Mathematical Optimization**: It has 2 chapters (1 has python code example) and introduces the readers to optimization techniques in general, those used in machine learning and in operations research. 
 
