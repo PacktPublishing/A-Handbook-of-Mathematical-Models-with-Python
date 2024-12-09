@@ -76,9 +76,7 @@ This book has been divided into three parts.
 
 **Part I** - **Mathematical Modeling**: It has 2 chapters and introduces the theory and concepts of mathematical modeling and discusses how a business problem can be formulated mathematically. 
 
-**Part II** - **Mathematical Tools**: It consists of 6 chapters (all have python code examples) about the most tried and tested tools that enable mathematical modeling and how mathematical models are complementary to machine learning models. 
-
-Those chapters have dedicated repositories as supplementary materials to the book. They are as follows:
+**Part II** - **Mathematical Tools**: It consists of 6 chapters (all have python code examples) about the most tried and tested tools that enable mathematical modeling and how mathematical models are complementary to machine learning models. Those chapters have dedicated repositories as supplementary materials to the book. They are as follows:
 
 -> **Ch 3: PCA** 
 
