@@ -107,3 +107,11 @@ This book has been divided into three parts.
 
 **Part III** - **Mathematical Optimization**: It has 2 chapters (1 has python code example) and introduces the readers to optimization techniques in general, those used in machine learning and in operations research. 
 
+-> **Ch 9: Exploring Optimization Techniques** 
+
+   Repo:  https://github.com/ranja-sarkar/Hyperparameters
+   
+-> **Ch 10:  Optimization Techniques for Machine Learning**
+
+   Repo: https://github.com/ranja-sarkar/Optimization-NOGD
+   
