@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 
 # A Handbook of Mathematical Models with Python
 <a href="https://www.packtpub.com/product/a-handbook-of-mathematical-models-with-python/9781804616703?utm_source=Github&utm_medium=repository&utm_campaign=9781804616703"><img src="https://content.packt.com/B18943/cover_image_small.jpg" alt="A Handbook of Mathematical
