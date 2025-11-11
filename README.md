@@ -70,7 +70,7 @@ Ranja has a decade of experience in academic scientific research encompassing ph
 statistical physics, and mathematics with publications in peer-reviewed internationally acclaimed
 journals. She has also worked at Deloitte - USI (Offices of the US) as a consultant for a year.
 
-## Additional Information
+## Additional Information/ Supplementary Material
 
 This book has been divided into three parts. 
 
