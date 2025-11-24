@@ -79,28 +79,28 @@ This book has been divided into three parts.
 **Part I** - **Mathematical Modeling**: It has 2 chapters and introduces the theory and concepts of mathematical modeling and discusses how a business problem can be formulated mathematically. 
 
 
--> **Ch 1: Introduction to Mathematical Modeling** 
+-> **Chapter 1: Introduction to Mathematical Modeling** 
    
--> **Ch 2:  Machine Learning vis-a-vis Mathematical Modeling**
+-> **Chapter 2:  Machine Learning vis-a-vis Mathematical Modeling**
  
 
 **Part II** - **Mathematical Tools**: It consists of 6 chapters (all have python code examples) about the most tried and tested tools that enable mathematical modeling and how mathematical models are complementary to machine learning models. Those chapters have dedicated repositories as supplementary materials to the book. They are as follows:
 
--> **Ch 3: [PCA**](https://github.com/ranja-sarkar/pca)
+-> Chapter 3: [PCA](https://github.com/ranja-sarkar/pca)
 
--> **Ch 4: [Gradient Descent**](https://github.com/ranja-sarkar/GD)
+-> Chapter 4: [Gradient Descent](https://github.com/ranja-sarkar/GD)
 
--> **Ch 5: [SVM**](https://github.com/ranja-sarkar/SVM)
+-> Chapter 5: [SVM](https://github.com/ranja-sarkar/SVM)
 
--> **Ch 6: [Graph Theory**](https://github.com/ranja-sarkar/networks-graphs)
+-> Chapter 6: [Graph Theory](https://github.com/ranja-sarkar/networks-graphs)
 
--> **Ch 7: [Kalman Filter**](https://github.com/ranja-sarkar/Kalman)
+-> Chapter 7: [Kalman Filter](https://github.com/ranja-sarkar/Kalman)
 
--> **Ch 8: [Markov Chain**](https://github.com/ranja-sarkar/Markov)
+-> Chapter 8: [Markov Chain](https://github.com/ranja-sarkar/Markov)
 
 **Part III** - **Mathematical Optimization**: It has 2 chapters (1 has python code example) and introduces the readers to optimization techniques in general, those used in machine learning and in operations research. 
 
--> **Ch 9: [Exploring Optimization Techniques**](https://github.com/ranja-sarkar/Hyperparameters)
+-> Chapter 9: [Exploring Optimization Techniques](https://github.com/ranja-sarkar/Hyperparameters)
    
--> **Ch 10:  [Optimization Techniques for Machine Learning**](https://github.com/ranja-sarkar/Optimization-NOGD)
+-> Chapter 10:  [Optimization Techniques for Machine Learning](https://github.com/ranja-sarkar/Optimization-NOGD)
    
